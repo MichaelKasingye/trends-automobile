@@ -8,7 +8,10 @@ const Layout = ({ children }) => {
       <Meta />
       <Navbar />
 
-      <div style={{ background:"black" }} className="page-index">
+      <div
+        //   style={{ background: "black" }}
+        className="page-index"
+      >
         {children}
       </div>
 
