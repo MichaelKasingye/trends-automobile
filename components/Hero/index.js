@@ -3,37 +3,24 @@ import React from 'react'
 export default function Index() {
   return (
     <>
-  {/* ======= Hero Section ======= */}
-  <section id="hero" className="hero d-flex align-items-center">
-    <div className="container">
-      <div className="row">
-        <div className="col-xl-4">
-          <h2 data-aos="fade-up">Focus On What Matters</h2>
-          <blockquote data-aos="fade-up" data-aos-delay={100}>
-            <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Perspiciatis cum recusandae eum laboriosam voluptatem repudiandae
-              odio, vel exercitationem officiis provident minima.{" "}
-            </p>
-          </blockquote>
-          <div className="d-flex" data-aos="fade-up" data-aos-delay={200}>
-            <a href="#about" className="btn-get-started">
-              Get Started
-            </a>
-            <a
-              href="https://www.youtube.com/watch?v=LXb3EKWsInQ"
-              className="glightbox btn-watch-video d-flex align-items-center"
-            >
-              <i className="bi bi-play-circle" />
-              <span>Watch Video</span>
-            </a>
-          </div>
-        </div>
+    {/* ======= Hero Section ======= */}
+    <section
+      id="hero"
+      className="d-flex flex-column justify-content-center align-items-center"
+    >
+      <div className="container text-center text-md-left" data-aos="fade-up">
+        <h1>
+          Welcome to <span>Trends Auto</span>
+        </h1>
+        <h2>We are team of talented designers making websites with Bootstrap</h2>
+        <a href="#about" className="btn-get-started scrollto">
+          Get Started
+        </a>
       </div>
-    </div>
-  </section>
-  {/* End Hero Section */}
-</>
+    </section>
+    {/* End Hero */}
+  </>
+  
 
   )
 }
