@@ -12,8 +12,8 @@ export default function Index() {
         <h1>
           Welcome to <span>Trends Auto</span>
         </h1>
-        <h2>We are team of talented designers making websites with Bootstrap</h2>
-        <a href="#about" className="btn-get-started scrollto">
+        <h2>We are a team of talented mechanics who will upgrade and improve your vehicle.</h2>
+        <a href="#about" className="btn-get-started scrollto nav-link">
           Get Started
         </a>
       </div>
