@@ -31,7 +31,7 @@ const Meta = ({ title, keywords, description, siteLink, image }) => {
 Meta.defaultProps = {
   title: "Trends-automobile",
   keywords: "Cars , Uganda",
-  description: "Get Car service and Upgrade",
+  description: "Get your car service and upgrade with us.",
   image: "https://trend-automobile.netlify.app/",
   siteLink: "",
 };
