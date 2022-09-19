@@ -28,9 +28,8 @@ export default function index() {
                 </a>
               </h3>
               <p>
-                Cumque eos in qui numquam. Aut aspernatur perferendis sed atque
-                quia voluptas quisquam repellendus temporibus itaqueofficiis
-                odit
+              Rely on us for all your car spraying needs. To give your car
+              afresh look.
               </p>
             </div>
           </div>
@@ -54,9 +53,7 @@ export default function index() {
                 </a>
               </h3>
               <p>
-                Asperiores provident dolor accusamus pariatur dolore nam id
-                audantium ut et iure incidunt molestiae dolor ipsam ducimus
-                occaecati nisi
+                We will service your car to make it smoothly and efficiently.
               </p>
             </div>
           </div>
@@ -80,9 +77,7 @@ export default function index() {
                 </a>
               </h3>
               <p>
-                Dicta quam similique quia architecto eos nisi aut ratione aut
-                ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et
-                nihil
+                We shall fix your car in all areas to maintain its strength.
               </p>
             </div>
           </div>

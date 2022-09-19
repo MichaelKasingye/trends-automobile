@@ -9,13 +9,10 @@ export default function Index() {
         <h3>Call To Action</h3>
         <p>
           {" "}
-          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est
-          laborum.
+          Contact us to be of assistance to you.
         </p>
-        <a className="cta-btn" href="#">
-          Call To Action
+        <a className="cta-btn nav-link fw-bold" href="#contact">
+        Contact
         </a>
       </div>
     </div>

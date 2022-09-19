@@ -18,9 +18,8 @@ export default function index() {
           <div className="testimonial-item">
             <p>
               <i className="bx bxs-quote-alt-left quote-icon-left" />
-              Export tempor illum tamen malis malis eram quae irure esse labore
-              quem cillum quid cillum eram malis quorum velit fore eram velit
-              sunt aliqua noster fugiat irure amet legam anim culpa.
+              My Prado Tx 2008 was getting old and rusty. Am happy Trends Auto mobile gave it
+              a fresh look.
               <i className="bx bxs-quote-alt-right quote-icon-right" />
             </p>
             <img
@@ -37,9 +36,8 @@ export default function index() {
           <div className="testimonial-item">
             <p>
               <i className="bx bxs-quote-alt-left quote-icon-left" />
-              Enim nisi quem export duis labore cillum quae magna enim sint
-              quorum nulla quem veniam duis minim tempor labore quem eram duis
-              noster aute amet eram fore quis sint minim.
+              I always have my car serviced from Trends AutoMobile. The team there 
+              know what they are doing.
               <i className="bx bxs-quote-alt-right quote-icon-right" />
             </p>
             <img
@@ -56,9 +54,8 @@ export default function index() {
           <div className="testimonial-item">
             <p>
               <i className="bx bxs-quote-alt-left quote-icon-left" />
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos
-              export minim fugiat minim velit minim dolor enim duis veniam ipsum
-              anim magna sunt elit fore quem dolore labore illum veniam.
+              Am Happy with Trends AutoMobile otherwise I would be in trouble 
+              with my E class Benz 2010 computer issues.
               <i className="bx bxs-quote-alt-right quote-icon-right" />
             </p>
             <img

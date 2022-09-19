@@ -14,39 +14,34 @@ export default function Index() {
       <div className="col-lg-6 content order-last  order-lg-first">
         <h3>About Us</h3>
         <p>
-          Dolor iure expedita id fuga asperiores qui sunt consequatur minima.
-          Quidem voluptas deleniti. Sit quia molestiae quia quas qui magnam
-          itaque veritatis dolores. Corrupti totam ut eius incidunt reiciendis
-          veritatis asperiores placeat.
+          We are an automobile general service team. We will ensure your vehicle is at its best.
+          with services ranging from maintenance to vehicle upgrading.
         </p>
         <ul>
           <li data-aos="fade-up" data-aos-delay={100}>
             <i className="bi bi-diagram-3" />
             <div>
-              <h5>Ullamco laboris nisi ut aliquip consequat</h5>
+              <h5>Completion</h5>
               <p>
-                Magni facilis facilis repellendus cum excepturi quaerat
-                praesentium libre trade
+                We conclude our tasks in one week.
               </p>
             </div>
           </li>
           <li data-aos="fade-up" data-aos-delay={200}>
             <i className="bi bi-fullscreen-exit" />
             <div>
-              <h5>Magnam soluta odio exercitationem reprehenderi</h5>
+              <h5>Customer service</h5>
               <p>
-                Quo totam dolorum at pariatur aut distinctio dolorum laudantium
-                illo direna pasata redi
+                We shall understand your need and have it met.
               </p>
             </div>
           </li>
           <li data-aos="fade-up" data-aos-delay={300}>
             <i className="bi bi-broadcast" />
             <div>
-              <h5>Voluptatem et qui exercitationem</h5>
+              <h5>Expectations</h5>
               <p>
-                Et velit et eos maiores est tempora et quos dolorem autem
-                tempora incidunt maxime veniam
+                Enjoy the fact that your expectations have been concluded
               </p>
             </div>
           </li>
