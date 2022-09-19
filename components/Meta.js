@@ -32,7 +32,7 @@ Meta.defaultProps = {
   title: "Trends-automobile",
   keywords: "Cars , Uganda",
   description: "Get Car service and Upgrade",
-  image: "https://stellacenter.vercel.app/assets/img/logo/logosc.jpeg",
+  image: "https://trend-automobile.netlify.app/",
   siteLink: "",
 };
 
